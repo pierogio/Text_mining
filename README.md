@@ -6,8 +6,4 @@
 ## What is the project about.
 We have extracted the inspiring and motivating speech delivered by Steve Jobs at Stanford University in June 2005 using Beautiful Soup, and we have performed sentiment analysis and text mining using NLTK and TextBlob.
 
-## Technologies Used
-* Jupyter Notebook
-* Python
-
 
